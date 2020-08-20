@@ -15,7 +15,7 @@ data but this is necessary for them as that is their business model. We at Cyphe
 your privacy as well as security. 
 
 As we accept bitcoin payments it is important to note for auditing purposes an address may change as we
-use a sepcific address per SKU(Node type, duration, and soon region), this is critical for us to be transparent
+use a specific address per SKU(Node type, duration, and soon region), this is critical for us to be transparent
 on our activities. So below is a list of our wallets per type and duration for the current time. As we rotate
 wallets for whatever reason they will be notated and updated here in this README.md along with the block
 height of the change. Example
