@@ -108,3 +108,61 @@ you to understand we do not want to know you support us with knowing your btc an
 
 
 As we venture onward into this seemingly uncharted territory we will be including as much information for you all to know us, not the other way around. 
+
+
+# Monero Wallets
+
+```
+
+Exit Relay - 1 month - 83oeezYx8yrH3AagXfEdwb2UUjXsUMiAdXXbGwGEYLWhXMjLgtsb8ToZKz85s8STw1efq3VbF11UnbVivX2XbmtxGsf99gK
+
+Exit Relay - 3 month - 84ZMSHbicXmdJdbiaFN68LeLf5C4M6LdXY5s7nWsXGtp6Pcr9d2ALiZ8ZsvvTovgpTZ2opodB3HuYfCPNSMVB7DV9tkLaVA
+
+Exit Relay - 6 month - 84f2KydhVy2XegdpbsmTdsHw3876976uoi4mL1AUuyZoYQC4R7Vrx3gXRZL8t5xrSs1E3P74GAJ3gfPvxiGb3CDF3MGAc2y
+
+Exit Relay - 12 months - 84g5g48ZGMf68H86bNurUP6mHAKNWFP5FhQ7fh9J6AkH1dTFDwor6XoWdBtfqemQqdc7uM3dwDNBD2H58N9bLXLcN8MLDSK
+
+Guard Relay - 1 month - 83Q7nkpMdznE6QVnw37Qj2S5DGTUDGUX3ZcBzyXSJqz1E2ngvovoXTd3P4qwXjAmr1Ws7k7YKJ7ruPcmc1LiYqQx8teS94g
+
+Guard Relay - 3 months - 8Ak1FALme8SGgWkfsgVsfcNAP7agh6wv5Kifb2yojJ3ujGyqvmxEPqwBZv7gWkK8G59H9MYHqDNBQY6Ko32vidJzVoMKGc9
+
+Guard Relay - 6 months - 8AgcFwzHim7GmL8U6WYQhFVQaLbVYq6n1ZJ3NVUKRNJsRWCjirfUPst4VFioCGBweMJcZ8vka3sf1TeMQhBzdgaLNUpyCDZ
+
+Guard Relay - 12 months - 85BZALSXjYobRUV9qpeFWh3qLUhpRNNB14SKHK5ypmj6aV8kUjsEmUkMxz5R1Jcm8tRG923eh3Aiz2RdKeW8PuzB74qzzJS
+
+Public Bridge Relay - 1 month - 85d58xnvkRnCUbW2MHG2h9KDTaV9dEcbTLTsjhRr6NxGdGqBT2N2PbCgTkgW7wRansYEMD2sypC5m7AGxycuZeu4DargXHQ
+
+Public Bridge Relay - 3 months - 83KFK4To7yiX8aWTVrGhMnjGg8KqgYCsJM7nDmngJjwVB47MxP1qoXzQmpEcYu1YkMjfeR5NgVxtSSBAyiqdmS272gojgaN
+
+Public Bridge Relay - 6 months - 86woBGJZmr262KruytBiYAVqcyVeEEVL3VbcJJr8ggQJMZLZTLWpgjEF2qEeQrW2ki7YuNKzhyUayMKBNJF22B6VJTkxWbm
+
+Public Bridge Relay - 12 months - 87sUvebK7Qt6xFdAtFQ6zAhq4N5CEFcam7NKGRDwcFmVj7nLj7zoACXT1F3fuRwU1Ue4Zn9oA3DTaFNdquhMYJ6bCgo6WUt
+
+Private Bridge Relay - 1 month - 82iWSyiQBF8HthZtDPDNWjiUjKJfPZnugajcbVhTcfRxP2Sc9LKEDfSVqi8w3Lx8GnLfW2mXY8WjK5mL2t8cRmitAcsoLS6
+
+Private Bridge Relay - 3 months - 88QJkWu9wpRfsUEcHfrNRAZk6S3ZunSB81VhSwi3hjFk8nSV2Za1mBRQQs4vKVhj8LKW3WkEVE3qG3eoTDPawsFn54EhRAR
+
+Private Bridge Relay - 6 months - 88YkVeDehiPZZHykjBH69ESaao7dm4zi5cjVbDvx8iUAY1dcTVgWFd8Bo5HsBWo24N81aoUSJLf66a84QfEmfHTr8yaMRvj
+
+Private Bridge Relay - 12 months - 85LcPgGAmxJXue9sGnDVrRG8XatKLMvdcdjy3cYx1ZAyCPXTD3FyqdFhopqHi3ELDZCsLAJuMEHbMJp7i8DvZnN9RS4pfk5
+
+Samourai Wallet Dojo - 1 month - 8386A6GZKrM45oyoF1twfeGJp5C9EwsT6c7CCncj7zcTPCRo8V446SWNUFpfybXt9tKj8v1Vm32ToA62SWr5euo2MBhsfWG
+
+Samourai Wallet Dojo - 3 months - 84ySYJqdKfUfaMDXZcJ6xzRQjj4kDcwJpdAXZwMkgijF6MkAWZj8AjaTF1e387UBWiBVFG2yRyhkCTJJu6ADVmauPPXwfPb
+
+Samourai Wallet Dojo - 6 months - 884sTUKqsJJ8Wto4Kw7qVg6gw5bicb68iAwgK9HAmKqH2wMHJvUvekDbDcFrjy8BGdVT7rimuT8Lg9hBqSmLbBruABfQgRj
+
+Samourai Wallet Dojo - 12 months - 83JuYNhH5ksESjQ3a8ooGN2cQDMVWsBxH3zoxs9x6f2vAeW4pJerE3HHA1pUek5Yjv1h9nVbin5kBXfxyjk1aBTtUD9khzD
+
+Hidden Services(non-BulletProof) - 6 months - 8AbJACuj6FbN1PJJujrA4ueoxMWM8o58tbrnFhRC9qoZbKdnkHvGo8XDceF9oQkXm37jtGkrn5U8qVLuVueRx63kFpGGSoW
+
+Hidden Services(non-BulletProof) - 12 months - 8BQwufEzA5FDSGDuRmmeLXGLvh9yPgWnzgjdtRe7GgGeLeRH9WuRLJfCQkGMNYuQBhjGF8WT3Wg5gYEgKro2dW3yDi2DHrR
+
+Hidden Services(BulletProof) - 6 months - 87beFM7cjePE5Zufigz1sbVduN2tDyXng5grGGkFqvn5WTqUPxJbYmz3qRWS52AiHQYrXd1RboW6cUh8LSxXCbiq3jeAehR
+
+Hidden Services(BulletProof) - 12 months - 8BiURwREQRfRqgeYsTfv2cfx4B9FtSh3tAthEp9wJNUzX27sbFw6BcsZJrqf2qdQEmeQyCb7q9fiGTCWKRuNX7mA73Wy67m
+
+Beer Money - 85M75bn8rddCiWWQfwb3NGATv82cQ94G3YKUjHPhAYFLXdZvR7idN9z1RAANVW6kV3WCZqGgCpHeiLXALb7CUzA91GtLXwp
+
+```
+
