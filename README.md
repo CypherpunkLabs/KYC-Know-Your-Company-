@@ -166,3 +166,64 @@ Beer Money - 85M75bn8rddCiWWQfwb3NGATv82cQ94G3YKUjHPhAYFLXdZvR7idN9z1RAANVW6kV3W
 
 ```
 
+
+# Litecoin Addresses
+
+```
+
+Exit Relay - 1 month - MLfNc1QwL8behtyGHUYTQjGSJadhd7EJ3J
+
+Exit Relay - 3 months - MVoksgaHVyTHU7utsbrmnLdbsvnLG2SbtK
+
+Exit Relay - 6 months - MA82KHvYADpGyKLULSFAUfvYD42j4KPtzZ
+
+Exit Relay - 12 months - MShMmsxMsxJQ28bCwAMgvm1SzE83XRhqQT
+
+Guard Relay - 1 months - MRdDLK3RUNabdMs23WcKw68JkVkePJPjiH
+
+Guard Relay - 3 months - MUZkicpJ2a3pFs4MzKgmPgZjT5JRrNawWR
+
+Guard Relay - 6 months - MJAahvFfUHKss5ZHBJwbdZ2rjFyfunpefJ
+
+Guard Relay - 12 months - MA4u3VNTPi1PVsMpEhLWLb2g9ULt4d4Ebv
+
+Public Bridge Relay - 1 month - MMh4yjGA9RnKQX1AcqzKvikmCvbauURS73
+
+Public Bridge Relay - 3 months - MHVxCHPWKkvQnZFUYm5DgP8b3AFuw7xNgH
+
+Public Bridge Relay - 6 months - MQ81yQtx7CNRptBEuZ1V71AXfNvFSFXSS6
+
+Public Bridge Relay - 12 months - MMeqeTpykFbVn7wLVda3qZ9A78QS34kG6y
+
+Private Bridge Relay - 1 month - MLqZ31TsoPfhs6FU5MW7uTqkRSVfSaP6vv
+
+Private Bridge Relay - 3 months - M9MufPCfJ7HxZFG3Q4NXZucE6jBAHqzQcp
+
+Private Bridge Relay - 6 months - MMVTKf6x8jBzdYjUaeDPahr3YmwsMbYvYy
+
+Private Bridge Relay - 12 months - MNUPhiUpGatZUPk11wCgbXHAAxuLexyd9z
+
+Samourai Wallet Dojo - 1 month - MNiruB3vMrLJhNJxFCdXUeHMpqvrh3Et1e
+
+Samourai Wallet Dojo - 3 months - MKutRdE2Ao93GmCMp33BRt5JKXzEDQpeEB
+
+Samourai Wallet Dojo - 6 months - MVBodcW2YsEGX8RLf7535zuW7RnxhPqR6n
+
+Samourai Wallet Dojo - 12 months - M88kY7bV9ToBBaGmQgEBmNLJKx3fp5W1n2
+
+Hidden Services(non-BulletProof) - 6 months - MWN9iHzGx3EPJpgWF5UtCdfmUPyb7A7jmf
+
+Hidden Services(non-BulletProof) - 12 months - MPbqoVKXR2m2414Wm7GTP68E8xxF82A3bX
+
+Hidden Services(BulletProof) - 6 months - MLndN6jB97LJFnZKRHuxz7C4kp4raVvdhM
+
+Hidden Services(BulletProof) - 12 months - M8S6Mq3KeUGYs8nqUPU9qqJte3YR9hiZs4
+
+Beer Money - MJpTeNPRqZymF5Dupe5TwJ9MKZCW14cpnt
+
+```
+
+
+# Ethereum Wallets
+
+
