@@ -96,6 +96,10 @@ Hidden Services(Bulletproof) - 12 months - 321bVPTrypMQnj9SCL17NQhby2w1KVsUhN
 
 Beer Money - 3DL5Frh9u7TjJhYEbyxzLAHzfPN1bWjQu3 - (just if you feel like sending us some love.)
 
+Custom order Segwit - bc1qmpysd0a4wnje4nvrurctrhrwm7tapprn0p8djl
+
+Custom order non-Segwit - 3LpvkUS7FMKMD7yDr6UbX2w4y42CJwTxv6
+
 ```
 
 Please check back here to find the wallets and information if you wish to track how many orders and of what types. Again we have
