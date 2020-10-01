@@ -94,6 +94,14 @@ Hidden Services(Bulletproof) - 6 months - 37DB1fxaMsmKJK49rNtwoaS24Z2kBNLdh8
 
 Hidden Services(Bulletproof) - 12 months - 321bVPTrypMQnj9SCL17NQhby2w1KVsUhN
 
+Monero Full Node - 1 month - 3Cd7R3cdMTKCsSQUwpdzPqSqhcq59JRSkd
+
+Monero Full Node - 3 months - 3JjVmBENVTMNagt54s9hR3gREabAwhn2KV
+
+Monero  Full Node - 6 months - 32ebR4b9TYVxsFE8Gaca28PQFSJmNQQxH9
+
+Monero Full Node - 12 months - 32ktSGV2EbmrTXXKYaftZ12dJ9cfVuzrvZ
+
 Beer Money - 3DL5Frh9u7TjJhYEbyxzLAHzfPN1bWjQu3 - (just if you feel like sending us some love.)
 
 ```
@@ -162,6 +170,14 @@ Hidden Services(BulletProof) - 6 months - 87beFM7cjePE5Zufigz1sbVduN2tDyXng5grGG
 
 Hidden Services(BulletProof) - 12 months - 8BiURwREQRfRqgeYsTfv2cfx4B9FtSh3tAthEp9wJNUzX27sbFw6BcsZJrqf2qdQEmeQyCb7q9fiGTCWKRuNX7mA73Wy67m
 
+Monero Full Node - 1 month - 82jxxcfbEwF3iovmaphSVGiWuef9PAcndh3FxwXcVSoNcp4bfxxcvgJAne5XR5fu8u69e7SJZFUNcTL2LxVujFpzBShzFwa
+
+Monero Full Node - 3 months - 82rHTE4XnwT54zTH6TYf3kgqNSVNTZX2QePue4Bx4xFBiNcfgFihWDM7sNGxXJ5G5xVo9QEDEsBaAbAimzoxjaCe9UmXUor
+
+Monero Full Node - 6 months - 86rqXKH7oZsc1aZ9NubURRbLiPKWrX76oPRSHUzmNY3M9isXSY5X75mbKjuc2GHaozHgP83hnS8hNJgUyuXvKyWZ7LwuXD7
+
+Monero Full Node - 12 months - 85GQ1CtS9cDjkne8yztDyaEiQt9uQV3joLR2CqqxSZwyWNcGYN7EQahVVUh6YwCL1E7jwwKNTMv3HRx2KWqbxN8tAgJUiP3
+
 Beer Money - 85M75bn8rddCiWWQfwb3NGATv82cQ94G3YKUjHPhAYFLXdZvR7idN9z1RAANVW6kV3WCZqGgCpHeiLXALb7CUzA91GtLXwp
 
 ```
@@ -218,6 +234,14 @@ Hidden Services(non-BulletProof) - 12 months - MPbqoVKXR2m2414Wm7GTP68E8xxF82A3b
 Hidden Services(BulletProof) - 6 months - MLndN6jB97LJFnZKRHuxz7C4kp4raVvdhM
 
 Hidden Services(BulletProof) - 12 months - M8S6Mq3KeUGYs8nqUPU9qqJte3YR9hiZs4
+
+Monero Full Node - 1 month - MMXoPNYcMJm9i9ZNmTZE21X6j1pWTkN5us
+
+Monero Full Node - 3 months - MX1ZeQdqzt53mWuwJhSGkt9dHpkv8egYBp
+
+Monero Full Node - 6 months - MQDPU7r6nggezfoUU7S8qmR5JS8xPiRYim
+
+Monero Full Node - 12 months - MCB8dEs1WqJrVFXfk8VSvYfaCptNzPzwsj
 
 Beer Money - MJpTeNPRqZymF5Dupe5TwJ9MKZCW14cpnt
 
@@ -276,7 +300,146 @@ Hidden Services(BulletProof) - 6 months - 1FJopKRgxJywXntYa1C23nZ97tV9hStqXM
 
 Hidden Services(BulletProof) - 12 months - 1LMhCMbj474CBVWSKumtepYjiMqn5A5gxQ
 
+Monero Full Node - 1 month - 1MA5XfvLcwZmS5FxjQJTyV94v4qMCYQRKu
+
+Monero Full Node - 3 months - 17W3vkQoQqTfU45QBRT7KK9FNdkPQ1xZ17
+
+Monero Full Node - 6 months - 1GpRTDPNqWTcqz7r8ntjTRsLdivptGwuLq
+
+Monero Full Node - 12 months - 1Ga1UqXMMwzgo9dxonLWoeuwBBxAy4BEiL
+
 Beer Money - 1HZ3ioqZn1kBYrzEyPvzTehrTWvBtiBtc7
+
+```
+
+# Dogecoin 
+
+```
+
+Exit Relay - 1 month - DQxEphRTdep5pmSZfvxQNgooCUtn9HJPcH
+
+Exit Relay - 3 months - DRfPDMNmvRtzULU4Nvmx4pHXWA3MWWXSto
+
+Exit Relay - 6 months - DD6oB5jh2syKz2Bv84KPyVx5qPrnP9CUd9
+
+Exit Relay - 12 months - D67tUxGy3gzHz2k57fzpbQ2EuWuieEQ1aG
+
+Guard Relay - 1 month - DFXrn9dQEh5jFPYDUzBtV5Le3GWJctD4kA
+
+Guard Relay - 3 months - DB4ss238KyVE5deDDXjR2HQeCxFo2yJgfP
+
+Guard Relay - 6 months - DQHSrLYkhS5HiNRYDKhW5TLxQ27o6Jzqkf
+
+Guard Relay - 12 months - DTsETmcXnu954tQt9G1pdy8E2EqBLGTPMz
+
+Public Bridge Relay - 1 month - DLFq2c37BR22kz9hGWuioWmpfSxGyHabPd
+
+Public Bridge Relay - 3months - D8vS7e8nCu8ZBj8j8CM9ivAYtHM8e4Ln9x
+
+Public Bridge Relay - 6 months - DCWWaSTkyrwUXdTqdctp6RYAEJnASRhJkz
+
+Public Bridge Relay - 12 months - DBofwheP9bRLgZAftjzRPzRiao1UcYzVXv
+
+Private Bridge Relay - 1 month - D5HYowo2JmrZ9kfo2zLAcNySyJ5SsFcowD
+
+Private Bridge Relay - 3 months - DK2g1F9FfiUYgYKFPaiT88NxkBAr1172Vk
+
+Private Bridge Relay - 6 months - D79BT6BXFUV5pjPmhcwQsrWNgjRSqV8ZGG
+
+Private Bridge Relay - 12 months - DRSWFvfcm1zMpeJpEeFpiyfsDxyostn6aq
+
+Samourai Wallet Dojo - 1 month - D7hwBw8R7AH2NNas6SHiAz3GGELSvHw2Rh
+
+Samourai Wallet Dojo - 3 months - DGcgz1fwyduLzUhqaGJzg5rQijxFTjL89i
+
+Samourai Wallet Dojo - 6 months - DLcP9uhQ9rofJF931zCkcdbPLqddFVnz7y
+
+Samourai Wallet Dojo - 12 months - DDgLtSqrLPGnvSBxi9JVd6LbG1a8H17QWi
+
+Hidden Services(non-BulletProof) - 6 months - DKYScueMSeHkqnfeijVhcTWeMgk2VyzmJT
+
+Hidden Services(non-BulletProof) - 12 months - D5VGHHKd6uGD3tK7cPwbhYkaCQ9MSYwoWH
+
+Hidden Services(BulletProof) - 6 months - DQSWaCwtETNYfUtqUTXYQyKAur1y6Wjptv
+
+Hidden Services(BulletProof) - 12 months - D6T4Ur3sWSbbHzkAovE74SAqh6q71ubsAG
+
+Monero Full Node - 1 month - DNhmdLWHaAfMPt3JTP5bWWohAYEcNFqa6N
+
+Monero Full Node - 3 months - DFudRWdupBz79gVyo7sK4nczKhwnYRWGBA
+
+Monero Full Node - 6 months - DJKNMf3QGkegHo7FMqzQpSuDWETnRtZugA
+
+Monero Full Node - 12 months - DFyGV7t8581sA3Rf3sgLEEufXPGP8EGDsW
+
+Beer Money - D5Re7dDoNNeNyhZsVd7fUnjUGd4Vj5LpZC
+
+```
+
+
+# ARRR
+
+Pirate Chain! 
+
+
+```
+Exit Relay - 1 month - zs1fqrnremz22j9s4eyq5s620j7ly5xx5pkynakyhmnxf0tzx4u575f5yq6dm5d9kv4uyu8x6vw044
+
+Exit Relay - 3 months - zs1zv08d5jrh73cfknpzt2sj39p6f9jxh38me7lhd9r3qhyp2watvtyrzf6f3pwuhnsynqmgpjsklw
+
+Exit Relay - 6 months - zs12pxx7wc7c6z0n6ad09kad0da3fl9dafp7l66cexk0kkln86dqc2qufhl8rlvv5j27vjzqg9jnah
+
+Exit Relay - 12 months - zs1eexmy03flzcps57yuwuq4rsjwp5hzk984elm8pvnt8708779apkvj70hfep03rvquwwzxp4msj5
+
+Guard Relay - 1 month - zs1ekd32j9ep4cvcs5hsyuqv72qxjms0j9ax56pxk2g2zejkq4883jpfc2p6yymn8yg4ud22wpw5gz
+
+Guard Relay - 3 months - zs1ww96pf6zywg5g36cx5u2gqspmkkgynts4q5w83ht07wm7u6tfyd8pqfuas9u7j4mzztkyp5uvk8
+
+Guard Relay - 6 months - zs1twcef3yd8sgfuatdw0zgl4lqu7phv7jcdfuj8354h37aspdvt0szvaa2p8u052nu9etqvxzdcyf
+
+Guard Relay - 12 months - zs177pgrksek7fmd50qs2qlyvnmkmf7cvq34sqxlz5t6mnsasudqfsht678ncvpkd2vgmwxqc6qnyt
+
+Public Bridge Relay - 1 month - zs17s9nq8axmvkgtn922w0cccr0zyvn96thhe4edpyj685nuyvfl05z5e7wnjrfycym9kmpyt6w8vg
+
+Public Bridge Relay - 3months - zs16sgpm09pwlqcpvvgw9wkgx232wfv6zudthf0d2akvkd8da9vpzaw5xfrd48dsepc0kunyhlrhn8
+
+Public Bridge Relay - 6 months - zs1fcqgh7nque73tc7zhlgzztzrwehdun29mvepnd28jyp7krfqnk570l43u35tllhst4ed26hhvkz
+
+Public Bridge Relay - 12 months - zs18xatc7mth7xd6enpeyyaucvpk0s2kkpc8n9dv7le09kznfag92weyjn33cjhln9cz78jytrdh6t
+
+Private Bridge Relay - 1 month - zs1fpzwa9z3p9m2a9w0d8tyuwf36mq0y3w2eeeu30sxfcfrzp04zhc3weva6vsr8mgzghphxhv30mz
+
+Private Bridge Relay - 3 months - zs1clksp7v0usvkqvct79g8ax627fu8drz8z2pjyygnnkqm4tn5tuywy8ga032pqdp8hkchzm5w0ds
+
+Private Bridge Relay - 6 months - zs1zzm93mqx80x2m954kczrp0akvyr34d8w5lhatc7zzwem9n4eskdw3h2255dl2kqq8warc8g5jzf
+
+Private Bridge Relay - 12 months - zs17u6z8atzs64n933pgjde43p52f3pxcrf0vql8qgh9peykmjd8mqxy2ktx0khmga5hj875x2zgc5
+
+Samourai Wallet Dojo - 1 month - zs1pqjgkwrqvpse7kvxrxajchz4c23ytvfhvvrju2faug92p7f6mnqn09elg0u2624g7kgdj8w5nq9
+
+Samourai Wallet Dojo - 3 months - zs1e7m65jym08f9efgamv0m7q694gttzle69g2r44ssxp47mkswt9pxwmr2a6jjeuap7k3uu849dth
+
+Samourai Wallet Dojo - 6 months - zs1tpguaq0epvzvrvsrr5ekp6hw6kffvp63e2ze335q66rk8zhc7zqhy2s79253e8mnwfugvh5vv9l
+
+Samourai Wallet Dojo - 12 months - zs1qz0xe9l0vx38u00h57rjuqys2s3fjmmwcmzxj6yyh6rn5s203pefyv8lzp8pxnck84x5qtemgqy
+
+Hidden Services(non-BulletProof) - 6 months - zs1stjutzz7jsmz8c58007n9urmvgqgqmd2zktf8hka42ntr7env8c942mvupvwpzzt3uaugra50za
+
+Hidden Services(non-BulletProof) - 12 months - zs1c207pxkxd9rpygw36rm0q0crh50nhzslc596vm9lzgwq07t4gwcypq6c3f4whmd0kdyxu6tng46
+
+Hidden Services(BulletProof) - 6 months - zs13kg492rsje2crrkff6nq426ut5azs8kxyr70nquwchuggldhqkxf8w6yt6u0kj342k2j5rvq506
+
+Hidden Services(BulletProof) - 12 months - zs19crtul0ck57vk8mxwx8ezatkzd8qyxz6chen6va7huc7z0mx0kaz4tpw6u2ah0hvdg7pj6sdkft
+
+Monero Full Node - 1 month - zs1ummjs2gmd3yussmjwegf8s0ytcynjv3lk4ffk2jjjnw5e0qgqxmlsmrj8tys29gprc85c0u8sc4
+
+Monero Full Node - 3 months - zs1mj8cwsejxuy5uxh88v2jalmwvxf7h3d5vfftd6vvjmuw3xqk20d2p5p8wd9tz4j4g6gaw8thpph
+
+Monero Full Node - 6 months - zs15c7j3qla8fqjuw3prvpjpwc2c4smxz5urs8myth2p48z29k0pky4sg895lcgzgsshg6nsg54af6
+
+Monero Full Node - 12 months - zs1sdpll3tye0s4enjtm25g8h45pzfmugv6fczft23me965ug00unnyg9e4z3pjxm2r67czcfaejf3
+
+Beer Money - zs1wzlhtv9nd9ra9wtujx8t37sarryqdypph0qj67cge6sze5zanrjwpjjd74lm5vg9dd95jte5jhw
 
 ```
 
