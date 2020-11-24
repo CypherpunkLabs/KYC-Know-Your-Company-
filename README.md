@@ -1,5 +1,7 @@
 # KYC-Know-Your-Company-
 
+# ORDER PROCESSING IS DISABLED. ADDRESSES ARE STILL HERE FOR DOCUMENTATION PURPOSES ONLY. 
+
 We are not your traditional company, you know us, we do not know you. 
 
 In a traditional sense a company would know information about you as the customer, in this new
